@@ -1,7 +1,6 @@
 
 // Q 96:
 
-import { modifierNames } from "chalk";
 
 //Demonstrate how to use the .reduce() method to calculate the sum of all numbers in an array.
 
